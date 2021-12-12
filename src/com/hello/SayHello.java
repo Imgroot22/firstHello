@@ -6,7 +6,8 @@ public class SayHello {
 		String s = "Hello";
 		
 		System.out.println(s.substring(0,0));
-		
+
+		System.out.println("great11");
 		System.out.println("great");
 	}
 }
